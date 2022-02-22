@@ -1,3 +1,13 @@
+/**
+ Dictionary
+ Creates an driver class Array Dictionary
+ Author: Ishan Tandon
+ Date: 2/22/22
+ On My Honor, I confirm that I followed all collaboration policy guidelines, and that the work I am submitting is mine:IT
+ **/
+
+
+
 public class DictionaryClass {
         public static void main(String[] args) {
             Dictionary test = new Dictionary();
